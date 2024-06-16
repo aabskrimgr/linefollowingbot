@@ -60,5 +60,5 @@ Line following robots are an important technology with numerous applications in 
 For more detailed information, please refer to the project documentation.
 
 ## Images
-![T-800 Line Following Robot](assets/linefollower1)
+![T-800 Line Following Robot](assets/linefollower1.jpeg)
 
