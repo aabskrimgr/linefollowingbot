@@ -56,6 +56,7 @@ Inspired by the migratory behavior of birds, this robot aims to mimic their navi
 Line following robots are an important technology with numerous applications in various industries. They offer increased efficiency, accuracy, and safety. Future developments will further enhance their capabilities and versatility, making them a significant area of robotics research and development.
 
 ---
+For more information, refer to the documentation.
 
 
 
