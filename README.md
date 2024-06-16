@@ -1,5 +1,5 @@
 # T-800: Line Following Robot
-
+![T-800 Line Following Robot](assets/linefollower1.jpg)
 ## Robotics Club of WRC
 Pashchimanchal Campus, Lamachour, Pokhara
 
